@@ -1,0 +1,7 @@
+C:\Users\Unknown User\source\repos\polimorf\polimorf\bin\Debug\polimorf.exe.config
+C:\Users\Unknown User\source\repos\polimorf\polimorf\bin\Debug\polimorf.exe
+C:\Users\Unknown User\source\repos\polimorf\polimorf\bin\Debug\polimorf.pdb
+C:\Users\Unknown User\source\repos\polimorf\polimorf\obj\Debug\polimorf.csproj.AssemblyReference.cache
+C:\Users\Unknown User\source\repos\polimorf\polimorf\obj\Debug\polimorf.csproj.CoreCompileInputs.cache
+C:\Users\Unknown User\source\repos\polimorf\polimorf\obj\Debug\polimorf.exe
+C:\Users\Unknown User\source\repos\polimorf\polimorf\obj\Debug\polimorf.pdb
